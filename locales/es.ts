@@ -15,7 +15,7 @@ export default {
   lastName: 'Ziyadov,',
   slogan: 'y construyo cosas con código',
   aboutSummary:
-    'Soy un ingeniero de software con sede en Moscú, Rusia. Me especializo en el desarrollo de aplicaciones funcionales y amigables con el ser humano.',
+    'Soy un ingeniero de software. Me especializo en el desarrollo de aplicaciones funcionales y amigables para el ser humano.',
   btnMessageMe: 'Mensajeame',
 
   aboutMe: 'Sobre mí',
@@ -58,4 +58,4 @@ export default {
   btnSend: 'Enviar',
 
   archive: 'Archivo',
-}
+};
